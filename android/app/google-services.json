@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058438760606",
+    "project_id": "catalogue-5860c",
+    "storage_bucket": "catalogue-5860c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058438760606:android:3ea649fbafd468be2e938f",
+        "android_client_info": {
+          "package_name": "com.dart.catalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058438760606-nrde6120gjbolh428n0utub66knrfl00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSpP5Uz2jiGU1po7uYzmn2SukxOTVSr-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058438760606-nrde6120gjbolh428n0utub66knrfl00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
