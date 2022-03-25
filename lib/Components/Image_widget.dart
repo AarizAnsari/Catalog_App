@@ -11,7 +11,7 @@ class ImageWidget extends StatelessWidget {
         loadingBuilder: (context, child, loadingProgress) {
       if (loadingProgress == null) return child;
 
-      return const Center(child: CircularProgressIndicator());
+      return  Image.asset('assets/Spinner.gif');
     });
   }
 }
